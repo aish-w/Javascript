@@ -1,2 +1,2 @@
 # Javascript
-Learning javascript from basic to advance.
+Learn javascript from basic to advance.I have covered all the topics here.
