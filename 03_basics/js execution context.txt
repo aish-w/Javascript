@@ -1,0 +1,18 @@
+{}->global execution context
+  ->function execution context
+  ->eval execution context
+//javascript is single threaded everything here is process
+
+1).Global execution
+2).Memory Phase
+->val1=undefined
+->val2=undefined
+->addnum-defination
+->result1=undefined
+->result2=undefined
+3).execution Phase
+val1->10
+val2->5
+addnum->new variable environment+execution thread
+
+
